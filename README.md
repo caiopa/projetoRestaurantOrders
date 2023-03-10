@@ -35,8 +35,8 @@ A lanchonete :baguette_bread: :cook: Pão na Chapa :baguette_bread: :cook: possu
   <summary><strong>🗓 Data de Entrega</strong></summary><br />
   
   * Este projeto é `individual`;
-  * São `X` dias de projeto;
-  * Data para entrega no prazo regular: `DD/MM/YYYY - 14:00h`.
+  * Serão `1` dias de projeto;
+  * Data para entrega no prazo regular: `21/03/2023 14:00`.
 
 </details>
 
@@ -46,7 +46,7 @@ A lanchonete :baguette_bread: :cook: Pão na Chapa :baguette_bread: :cook: possu
 
   1. Clone o repositório
 
-  - Use o comando: `git clone git@github.com:tryber/sd-0x-restaurant-orders.git`.
+  - Use o comando: `git clone git@github.com:tryber/sd-021-a-restaurant-orders.git`.
   - Entre na pasta do repositório que você acabou de clonar:
     - `cd sd-0x-project-restaurant-orders`
 
@@ -252,7 +252,7 @@ Legenda:
 
     - No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
 
-    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-021-a`.
 
   Caso tenha alguma dúvida, veja o [video explicativo](https://vimeo.com/362189205).
 
@@ -270,7 +270,7 @@ Legenda:
 Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário. 
 **Leva menos de 3 minutos!**
 
-[FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH)
+[FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_hidden=CH21-A&template=betrybe/sd-0x-restaurant-orders)
 
 </details>
 
