@@ -1,5 +1,7 @@
 import analyze_log as analyze
 from collections import Counter
+
+
 class TrackOrders:
     # aqui deve expor a quantidade de estoque
     def __init__(self):
@@ -32,4 +34,3 @@ class TrackOrders:
     def get_least_busy_day(self):
         most_common = self.count_by_days()
         return most_common[-1][0]
-    

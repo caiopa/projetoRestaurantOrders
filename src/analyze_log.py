@@ -17,15 +17,15 @@ def number_hamburguers(data, name):
 
 
 def never_ask(data, name):
-   foods = set(line[1] for line in data if line[0] != name)
-   all = set(line[1] for line in data if line[0] == name)
-   return foods - all
-   
+    foods = set(line[1] for line in data if line[0] != name)
+    all = set(line[1] for line in data if line[0] == name)
+    return foods - all
+
 
 def never_went(data, name):
     days = set(line[2] for line in data if line[0] != name)
     all = set(line[2] for line in data if line[0] == name)
-    return  days - all 
+    return days - all
 
 
 def analyze_log(path_to_file):
